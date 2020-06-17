@@ -1,0 +1,788 @@
+**********************************************
+cur deep: 1pathtime: 0.31769999999748205
+all partition is not good
+current partition time: 0.3865599999999958    reducetime: 0.0
+**********************************************
+cur deep: 2pathtime: 0.3619333333328238
+all partition is not good
+current partition time: 0.39488999999999663    reducetime: 0.0
+**********************************************
+cur deep: 3pathtime: 2.0678666666678205
+all partition is good.    reducetime: 0.8598866666678142
+**********************************************
+cur deep: 4pathtime: 2.526033333333544
+all partition is good.    reducetime: 2.226533333333549
+**********************************************
+cur deep: 5pathtime: 3.2088999999965986
+all partition is good.    reducetime: 2.8563799999966
+**********************************************
+cur deep: 6pathtime: 3.712800000001456
+all partition is good.    reducetime: 3.4118800000014224
+**********************************************
+cur deep: 7pathtime: 6.852933333334477
+all partition is good.    reducetime: 6.577773333334491
+**********************************************
+cur deep: 8pathtime: 7.422766666665363
+all partition is good.    reducetime: 7.065036666665374
+**********************************************
+cur deep: 9pathtime: 7.868499999998828
+all partition is good.    reducetime: 7.4069399999988645
+**********************************************
+cur deep: 10pathtime: 8.349999999999605
+all partition is good.    reducetime: 7.944529999999569
+**********************************************
+cur deep: 11pathtime: 13.606433333332765
+all partition is good.    reducetime: 13.28733333333273
+**********************************************
+cur deep: 12pathtime: 14.574966666668843
+all partition is good.    reducetime: 14.175156666668798
+**********************************************
+cur deep: 13pathtime: 15.581400000000182
+all partition is good.    reducetime: 15.167890000000193
+**********************************************
+cur deep: 14pathtime: 16.86766666666699
+all partition is good.    reducetime: 16.520986666666957
+**********************************************
+cur deep: 15pathtime: 17.605733333334683
+all partition is good.    reducetime: 17.292573333334715
+**********************************************
+cur deep: 16pathtime: 18.775400000000293
+all partition is good.    reducetime: 18.264270000000284
+**********************************************
+cur deep: 17pathtime: 20.675500000000586
+all partition is good.    reducetime: 20.42960000000055
+**********************************************
+cur deep: 18pathtime: 19.766466666669658
+all partition is not good
+current partition time: 0.3238099999998667    reducetime: 20.42960000000055
+**********************************************
+cur deep: 19pathtime: 19.016500000001695
+all partition is not good
+current partition time: 0.3281599999999685    reducetime: 20.42960000000055
+**********************************************
+cur deep: 20pathtime: 26.728433333331242
+all partition is good.    reducetime: 26.34062333333124
+**********************************************
+cur deep: 21pathtime: 30.048300000002353
+all partition is good.    reducetime: 29.66903000000239
+**********************************************
+cur deep: 22pathtime: 27.139166666665915
+all partition is not good
+current partition time: 0.39052999999995563    reducetime: 29.66903000000239
+**********************************************
+cur deep: 23pathtime: 27.191766666669537
+all partition is not good
+current partition time: 0.4642800000000591    reducetime: 29.66903000000239
+**********************************************
+cur deep: 24pathtime: 27.15729999999894
+all partition is not good
+current partition time: 0.3730199999999684    reducetime: 29.66903000000239
+**********************************************
+cur deep: 25pathtime: 27.34779999999925
+all partition is not good
+current partition time: 38.431580000000025    reducetime: 29.66903000000239
+**********************************************
+cur deep: 26pathtime: 30.023033333335054
+all partition is not good
+**********************************************
+cur deep: 1pathtime: 0.3052099999990787
+all partition is good.    reducetime: 0.007599999999072793
+**********************************************
+cur deep: 2pathtime: 0.3336899999999332
+all partition is not good
+current partition time: 0.38285999999999376    reducetime: 0.007599999999072793
+**********************************************
+cur deep: 3pathtime: 2.0573300000000927
+all partition is not good
+current partition time: 1.8545600000000206    reducetime: 0.007599999999072793
+**********************************************
+cur deep: 4pathtime: 2.6180599999997867
+all partition is not good
+current partition time: 2.6026099999999985    reducetime: 0.007599999999072793
+**********************************************
+cur deep: 5pathtime: 3.145079999999325
+all partition is not good
+current partition time: 3.180200000000042    reducetime: 0.007599999999072793
+**********************************************
+cur deep: 6pathtime: 3.8037600000006933
+all partition is good.    reducetime: 0.17590000000069494
+**********************************************
+cur deep: 7pathtime: 6.863009999999576
+all partition is not good
+current partition time: 6.330059999999946    reducetime: 0.17590000000069494
+**********************************************
+cur deep: 8pathtime: 7.474890000000869
+all partition is not good
+current partition time: 7.024290000000021    reducetime: 0.17590000000069494
+**********************************************
+cur deep: 9pathtime: 8.08573000000024
+all partition is not good
+current partition time: 7.47753000000003    reducetime: 0.17590000000069494
+**********************************************
+cur deep: 10pathtime: 8.5880300000008
+all partition is good.    reducetime: 0.5396000000007461
+**********************************************
+cur deep: 11pathtime: 15.505029999999351
+all partition is not good
+current partition time: 13.743520000000016    reducetime: 1.9735799999993748
+**********************************************
+cur deep: 12pathtime: 15.155339999998887
+**********************************************
+cur deep: 1pathtime: 0.3052099999990787
+all partition is good.    reducetime: 0.05712999999909485
+**********************************************
+cur deep: 2pathtime: 0.3336899999999332
+all partition is not good
+current partition time: 0.26410000000000267    reducetime: 0.05712999999909485
+**********************************************
+cur deep: 3pathtime: 2.0573300000000927
+all partition is not good
+current partition time: 2.066049999999997    reducetime: 0.05712999999909485
+**********************************************
+cur deep: 4pathtime: 2.6180599999997867
+all partition is not good
+current partition time: 2.2782100000000582    reducetime: 0.05712999999909485
+**********************************************
+cur deep: 5pathtime: 3.145079999999325
+all partition is not good
+current partition time: 3.12854999999999    reducetime: 0.05712999999909485
+**********************************************
+cur deep: 6pathtime: 3.8037600000006933
+all partition is good.    reducetime: 0.13402000000070302
+**********************************************
+cur deep: 7pathtime: 6.863009999999576
+all partition is not good
+current partition time: 6.352539999999963    reducetime: 0.13402000000070302
+**********************************************
+cur deep: 8pathtime: 7.474890000000869
+all partition is not good
+current partition time: 6.585570000000018    reducetime: 0.13402000000070302
+**********************************************
+cur deep: 9pathtime: 8.08573000000024
+all partition is not good
+current partition time: 7.354210000000023    reducetime: 0.13402000000070302
+**********************************************
+cur deep: 10pathtime: 8.5880300000008
+all partition is good.    reducetime: 0.5769100000007654
+**********************************************
+cur deep: 11pathtime: 15.505029999999351
+all partition is not good
+current partition time: 13.645800000000035    reducetime: 1.9936199999993693
+**********************************************
+cur deep: 12pathtime: 15.155339999998887
+**********************************************
+cur deep: 1pathtime: 0.3052099999990787
+all partition is not good
+current partition time: 0.37540000000001683    reducetime: 0.0
+**********************************************
+cur deep: 2pathtime: 0.3336899999999332
+all partition is not good
+current partition time: 0.38004000000000815    reducetime: 0.0
+**********************************************
+cur deep: 3pathtime: 2.0573300000000927
+all partition is not good
+current partition time: 1.677880000000016    reducetime: 0.0
+**********************************************
+cur deep: 4pathtime: 2.6180599999997867
+all partition is not good
+current partition time: 2.5017199999999917    reducetime: 0.0
+**********************************************
+cur deep: 5pathtime: 3.145079999999325
+all partition is not good
+current partition time: 3.066180000000003    reducetime: 0.0
+**********************************************
+cur deep: 6pathtime: 3.8037600000006933
+all partition is good.    reducetime: 0.27554000000066026
+**********************************************
+cur deep: 7pathtime: 6.863009999999576
+all partition is not good
+current partition time: 6.425020000000004    reducetime: 0.27554000000066026
+**********************************************
+cur deep: 8pathtime: 7.474890000000869
+all partition is not good
+current partition time: 7.061559999999929    reducetime: 0.27554000000066026
+**********************************************
+cur deep: 9pathtime: 8.08573000000024
+all partition is not good
+current partition time: 7.657779999999974    reducetime: 0.27554000000066026
+**********************************************
+cur deep: 10pathtime: 8.5880300000008
+all partition is good.    reducetime: 0.3846400000007577
+**********************************************
+cur deep: 11pathtime: 15.505029999999351
+all partition is not good
+current partition time: 13.674000000000035    reducetime: 1.8896399999994173
+**********************************************
+cur deep: 12pathtime: 15.155339999998887
+all partition is not good
+current partition time: 14.608309999999987    reducetime: 1.8896399999994173
+**********************************************
+cur deep: 13pathtime: 15.983179999998356
+all partition is not good
+current partition time: 15.898109999999974    reducetime: 1.8896399999994173
+**********************************************
+cur deep: 14pathtime: 17.899089999998523
+all partition is not good
+current partition time: 16.612070000000045    reducetime: 1.8896399999994173
+**********************************************
+cur deep: 15pathtime: 18.903549999999996
+all partition is not good
+current partition time: 17.680149999999912    reducetime: 1.8896399999994173
+**********************************************
+cur deep: 16pathtime: 21.101750000000266
+all partition is not good
+current partition time: 18.029579999999896    reducetime: 2.464920000000177
+**********************************************
+cur deep: 17pathtime: 18.897150000000238
+all partition is not good
+current partition time: 18.949839999999938    reducetime: 2.464920000000177
+**********************************************
+cur deep: 18pathtime: 21.24567999999954
+all partition is not good
+current partition time: 19.620079999999973    reducetime: 2.464920000000177
+**********************************************
+cur deep: 19pathtime: 19.84817000000021
+all partition is not good
+current partition time: 19.709819999999922    reducetime: 2.464920000000177
+**********************************************
+cur deep: 20pathtime: 28.310519999999997
+all partition is not good
+current partition time: 25.22660999999999    reducetime: 2.496959999999998
+**********************************************
+cur deep: 21pathtime: 28.696380000001227
+all partition is not good
+current partition time: 26.7734999999999    reducetime: 2.496959999999998
+**********************************************
+cur deep: 22pathtime: 28.78789999999981
+all partition is not good
+current partition time: 27.679210000000012    reducetime: 2.496959999999998
+**********************************************
+cur deep: 23pathtime: 29.58470000000034
+all partition is not good
+current partition time: 28.336270000000066    reducetime: 2.496959999999998
+**********************************************
+cur deep: 24pathtime: 29.385500000000775
+all partition is not good
+current partition time: 29.116169999999784    reducetime: 2.496959999999998
+**********************************************
+cur deep: 25pathtime: 32.566099999999096
+all partition is not good
+current partition time: 31.8730400000004    reducetime: 2.496959999999998
+**********************************************
+cur deep: 26pathtime: 32.47385000000122
+all partition is not good
+current partition time: 31.871610000000032    reducetime: 2.496959999999998
+**********************************************
+cur deep: 27pathtime: 34.48522000000139
+all partition is not good
+current partition time: 31.954069999999888    reducetime: 2.496959999999998
+**********************************************
+cur deep: 28pathtime: 32.03981999999996
+all partition is not good
+current partition time: 32.17144000000019    reducetime: 2.496959999999998
+**********************************************
+cur deep: 29pathtime: 33.4438699999987
+all partition is not good
+current partition time: 32.17370000000017    reducetime: 2.496959999999998
+**********************************************
+cur deep: 30pathtime: 36.72861000000012
+all partition is not good
+current partition time: 16.811199999999644    reducetime: 20.288940000000366
+**********************************************
+cur deep: 31pathtime: 42.083900000000085
+all partition is good.    reducetime: 21.555099999999925
+**********************************************
+cur deep: 32pathtime: 42.62046000000055
+all partition is not good
+current partition time: 21.02756999999997    reducetime: 21.555099999999925
+**********************************************
+cur deep: 33pathtime: 40.71816000000126
+all partition is not good
+current partition time: 20.58174000000008    reducetime: 21.555099999999925
+**********************************************
+cur deep: 34pathtime: 41.0307499999999
+all partition is not good
+current partition time: 20.876970000000483    reducetime: 21.555099999999925
+**********************************************
+cur deep: 35pathtime: 42.413489999999
+all partition is not good
+current partition time: 21.122609999999895    reducetime: 21.555099999999925
+**********************************************
+cur deep: 36pathtime: 47.461960000000545
+all partition is not good
+current partition time: 22.297869999999875    reducetime: 25.046390000000542
+**********************************************
+cur deep: 37pathtime: 51.84988000000203
+all partition is good.    reducetime: 25.703390000002173
+**********************************************
+cur deep: 38pathtime: 52.90962000000036
+all partition is not good
+current partition time: 27.702879999999936    reducetime: 25.703390000002173
+**********************************************
+cur deep: 39pathtime: 51.48756999999932
+all partition is not good
+current partition time: 27.42195000000038    reducetime: 25.703390000002173
+**********************************************
+cur deep: 40pathtime: 51.9095399999992
+all partition is not good
+current partition time: 27.68346000000065    reducetime: 25.703390000002173
+**********************************************
+cur deep: 41pathtime: 50.762160000001586
+all partition is not good
+current partition time: 27.246650000000727    reducetime: 25.703390000002173
+**********************************************
+cur deep: 42pathtime: 59.60145000000011
+all partition is not good
+current partition time: 26.794069999999692    reducetime: 33.007769999999255
+**********************************************
+cur deep: 43pathtime: 59.43876000000046
+all partition is not good
+current partition time: 28.54838000000086    reducetime: 33.007769999999255
+**********************************************
+cur deep: 44pathtime: 57.7174500000001
+all partition is not good
+current partition time: 27.6418799999999    reducetime: 33.007769999999255
+**********************************************
+cur deep: 45pathtime: 60.0581800000009
+all partition is not good
+current partition time: 29.190189999999347    reducetime: 33.007769999999255
+**********************************************
+cur deep: 46pathtime: 58.11001000000033
+all partition is not good
+current partition time: 28.598990000000413    reducetime: 33.007769999999255
+**********************************************
+cur deep: 47pathtime: 59.57550000000083
+all partition is not good
+current partition time: 29.150419999999713    reducetime: 33.007769999999255
+**********************************************
+cur deep: 48pathtime: 60.55384000000004
+all partition is not good
+current partition time: 28.830179999999928    reducetime: 33.007769999999255
+**********************************************
+cur deep: 49pathtime: 59.76658999999927
+all partition is not good
+current partition time: 28.870190000000093    reducetime: 33.007769999999255
+**********************************************
+cur deep: 50pathtime: 60.21359999999959
+all partition is not good
+current partition time: 29.507309999999052    reducetime: 33.007769999999255
+**********************************************
+cur deep: 51pathtime: 59.61092000000008
+all partition is not good
+current partition time: 30.957520000000613    reducetime: 33.007769999999255
+**********************************************
+cur deep: 52pathtime: 59.559529999999086
+all partition is not good
+current partition time: 29.75070999999957    reducetime: 33.007769999999255
+**********************************************
+cur deep: 53pathtime: 60.743720000000394
+all partition is not good
+current partition time: 29.678430000000162    reducetime: 33.007769999999255
+**********************************************
+cur deep: 54pathtime: 61.47812000000158
+all partition is not good
+current partition time: 30.21983999999975    reducetime: 33.007769999999255
+**********************************************
+cur deep: 55pathtime: 66.30839000000151
+all partition is not good
+current partition time: 31.549709999999322    reducetime: 35.29609000000164
+**********************************************
+cur deep: 56pathtime: 63.099520000000666
+all partition is not good
+current partition time: 30.55896999999959    reducetime: 35.29609000000164
+**********************************************
+cur deep: 57pathtime: 66.25402000000122
+all partition is not good
+current partition time: 31.14657999999963    reducetime: 35.29609000000164
+**********************************************
+cur deep: 58pathtime: 65.22032999999965
+all partition is not good
+current partition time: 30.847159999999576    reducetime: 35.29609000000164
+**********************************************
+cur deep: 59pathtime: 66.80294999999887
+all partition is good.    reducetime: 35.48785999999836
+**********************************************
+cur deep: 60pathtime: 65.23754999999937
+all partition is not good
+current partition time: 30.79874000000018    reducetime: 35.48785999999836
+**********************************************
+cur deep: 61pathtime: 68.31071000000065
+all partition is not good
+current partition time: 31.8549500000006    reducetime: 36.77157000000079
+**********************************************
+cur deep: 62pathtime: 65.228239999999
+all partition is not good
+current partition time: 32.478759999999056    reducetime: 36.77157000000079
+**********************************************
+cur deep: 63pathtime: 66.41767999999956
+all partition is not good
+current partition time: 32.02231999999981    reducetime: 36.77157000000079
+**********************************************
+cur deep: 64pathtime: 66.16962999999942
+all partition is not good
+current partition time: 33.48392999999987    reducetime: 36.77157000000079
+**********************************************
+cur deep: 65pathtime: 66.60184999999956
+all partition is not good
+current partition time: 32.85748000000012    reducetime: 36.77157000000079
+**********************************************
+cur deep: 66pathtime: 67.22203000000036
+all partition is not good
+current partition time: 33.99357000000009    reducetime: 36.77157000000079
+**********************************************
+cur deep: 67pathtime: 66.51409000000058
+all partition is not good
+current partition time: 33.30325000000016    reducetime: 36.77157000000079
+**********************************************
+cur deep: 68pathtime: 66.12831000000142
+all partition is not good
+current partition time: 33.610310000000254    reducetime: 36.77157000000079
+**********************************************
+cur deep: 69pathtime: 66.90637000000152
+all partition is not good
+current partition time: 33.5856200000012    reducetime: 36.77157000000079
+**********************************************
+cur deep: 70pathtime: 65.83122000000003
+all partition is not good
+current partition time: 33.965659999998934    reducetime: 36.77157000000079
+**********************************************
+cur deep: 71pathtime: 66.72361000000137
+all partition is not good
+current partition time: 34.84922000000097    reducetime: 36.77157000000079
+**********************************************
+cur deep: 72pathtime: 67.89534000000003
+all partition is not good
+current partition time: 34.968699999999444    reducetime: 36.77157000000079
+**********************************************
+cur deep: 73pathtime: 66.96664999999939
+all partition is not good
+current partition time: 34.864860000000135    reducetime: 36.77157000000079
+**********************************************
+cur deep: 74pathtime: 66.0310000000004
+all partition is not good
+current partition time: 35.02975000000106    reducetime: 36.77157000000079
+**********************************************
+cur deep: 75pathtime: 68.95674999999983
+all partition is not good
+current partition time: 35.280800000000454    reducetime: 36.77157000000079
+**********************************************
+cur deep: 76pathtime: 72.38603999999896
+all partition is not good
+current partition time: 41.40431000000035    reducetime: 36.77157000000079
+**********************************************
+cur deep: 77pathtime: 75.27228999999807
+all partition is not good
+current partition time: 42.33077000000094    reducetime: 36.77157000000079
+**********************************************
+cur deep: 78pathtime: 76.58478999999943
+all partition is not good
+current partition time: 43.058310000001256    reducetime: 36.77157000000079
+**********************************************
+cur deep: 79pathtime: 75.00743000000057
+all partition is not good
+current partition time: 43.14625999999862    reducetime: 36.77157000000079
+**********************************************
+cur deep: 80pathtime: 76.68443000000025
+all partition is not good
+current partition time: 43.66424000000052    reducetime: 36.77157000000079
+**********************************************
+cur deep: 81pathtime: 75.90349999999944
+all partition is not good
+current partition time: 43.69515000000092    reducetime: 36.77157000000079
+**********************************************
+cur deep: 82pathtime: 81.78083999999899
+we add a partition: 1485    time: 41.15628000000015
+all partition is not good
+current partition time: 45.102280000000974    reducetime: 40.62455999999884
+**********************************************
+cur deep: 83pathtime: 85.9727799999996
+all partition is good.    reducetime: 41.795639999998
+**********************************************
+cur deep: 84pathtime: 86.17473000000018
+all partition is not good
+current partition time: 46.315430000001925    reducetime: 41.795639999998
+**********************************************
+cur deep: 85pathtime: 85.80099000000018
+all partition is not good
+current partition time: 47.543430000000626    reducetime: 41.795639999998
+**********************************************
+cur deep: 86pathtime: 86.76690999999892
+all partition is not good
+current partition time: 49.601359999999204    reducetime: 41.795639999998
+**********************************************
+cur deep: 87pathtime: 87.48351000000184
+all partition is not good
+current partition time: 47.23579999999856    reducetime: 41.795639999998
+**********************************************
+cur deep: 88pathtime: 92.15917999999874
+all partition is not good
+current partition time: 49.09204999999929    reducetime: 43.96426999999903
+**********************************************
+cur deep: 89pathtime: 96.07729999999947
+all partition is good.    reducetime: 47.46591999999964
+**********************************************
+cur deep: 90pathtime: 92.85513000000037
+all partition is not good
+current partition time: 51.40053999999964    reducetime: 47.46591999999964
+**********************************************
+cur deep: 91pathtime: 93.0664899999988
+all partition is not good
+current partition time: 48.104819999998654    reducetime: 47.46591999999964
+**********************************************
+cur deep: 92pathtime: 93.71165999999903
+all partition is not good
+current partition time: 50.842099999999846    reducetime: 47.46591999999964
+**********************************************
+cur deep: 93pathtime: 94.27271000000019
+all partition is not good
+current partition time: 51.11953999999969    reducetime: 47.46591999999964
+**********************************************
+cur deep: 94pathtime: 94.363340000001
+all partition is not good
+current partition time: 51.60679000000073    reducetime: 47.46591999999964
+**********************************************
+cur deep: 95pathtime: 93.66499999999975
+all partition is not good
+current partition time: 50.426810000001296    reducetime: 47.46591999999964
+**********************************************
+cur deep: 96pathtime: 96.14044000000034
+all partition is not good
+current partition time: 51.38900999999805    reducetime: 47.46591999999964
+**********************************************
+cur deep: 97pathtime: 95.56162000000086
+all partition is not good
+current partition time: 50.49359999999979    reducetime: 47.46591999999964
+**********************************************
+cur deep: 98pathtime: 96.36975000000005
+all partition is not good
+current partition time: 51.99057999999923    reducetime: 47.46591999999964
+**********************************************
+cur deep: 99pathtime: 95.87492999999995
+all partition is not good
+current partition time: 53.77244000000019    reducetime: 47.46591999999964
+**********************************************
+cur deep: 100pathtime: 96.61779000000024
+all partition is not good
+current partition time: 51.0033599999997    reducetime: 47.46591999999964
+**********************************************
+cur deep: 101pathtime: 96.28557999999997
+all partition is not good
+current partition time: 53.076710000000276    reducetime: 47.46591999999964
+**********************************************
+cur deep: 102pathtime: 97.76481999999987
+all partition is not good
+current partition time: 54.6148200000016    reducetime: 47.46591999999964
+**********************************************
+cur deep: 103pathtime: 96.33091000000037
+all partition is not good
+current partition time: 52.80733000000055    reducetime: 47.46591999999964
+**********************************************
+cur deep: 104pathtime: 98.51312000000007
+all partition is not good
+current partition time: 52.85188999999946    reducetime: 47.46591999999964
+**********************************************
+cur deep: 105pathtime: 97.46606000000044
+all partition is not good
+current partition time: 55.38180999999895    reducetime: 47.46591999999964
+**********************************************
+cur deep: 106pathtime: 98.21447000000035
+all partition is not good
+current partition time: 52.48362000000043    reducetime: 47.46591999999964
+**********************************************
+cur deep: 107pathtime: 99.29674999999973
+all partition is not good
+current partition time: 51.1280899999997    reducetime: 47.46591999999964
+**********************************************
+cur deep: 108pathtime: 98.45028000000072
+all partition is not good
+current partition time: 53.229559999999765    reducetime: 47.46591999999964
+**********************************************
+cur deep: 109pathtime: 103.08552000000076
+all partition is not good
+current partition time: 61.10359000000017    reducetime: 47.46591999999964
+**********************************************
+cur deep: 110pathtime: 103.44100000000026
+all partition is not good
+current partition time: 61.084470000002966    reducetime: 47.46591999999964
+**********************************************
+cur deep: 111pathtime: 104.37608999999954
+all partition is not good
+current partition time: 61.83648000000176    reducetime: 47.46591999999964
+**********************************************
+cur deep: 112pathtime: 105.14085000000023
+all partition is not good
+current partition time: 61.41451999999845    reducetime: 47.46591999999964
+**********************************************
+cur deep: 113pathtime: 104.39861999999948
+all partition is not good
+current partition time: 60.58557999999721    reducetime: 47.46591999999964
+**********************************************
+cur deep: 114pathtime: 105.07420999999907
+all partition is not good
+current partition time: 60.87872000000061    reducetime: 47.46591999999964
+**********************************************
+cur deep: 115pathtime: 105.11848999999984
+all partition is not good
+current partition time: 62.233360000000175    reducetime: 47.46591999999964
+**********************************************
+cur deep: 116pathtime: 104.56620000000042
+all partition is not good
+current partition time: 62.50946000000113    reducetime: 47.46591999999964
+**********************************************
+cur deep: 117pathtime: 102.79697000000054
+all partition is not good
+current partition time: 61.56203000000005    reducetime: 47.46591999999964
+**********************************************
+cur deep: 118pathtime: 104.49385000000005
+all partition is not good
+current partition time: 63.95427000000382    reducetime: 47.46591999999964
+**********************************************
+cur deep: 119pathtime: 105.31836999999996
+all partition is not good
+current partition time: 65.18313999999918    reducetime: 47.46591999999964
+**********************************************
+cur deep: 120pathtime: 105.21675999999955
+all partition is not good
+current partition time: 61.25808000000234    reducetime: 47.46591999999964
+**********************************************
+cur deep: 121pathtime: 105.99748999999974
+all partition is not good
+current partition time: 61.48363999999674    reducetime: 47.46591999999964
+**********************************************
+cur deep: 122pathtime: 106.44549999999981
+all partition is not good
+current partition time: 62.39666999999827    reducetime: 47.46591999999964
+**********************************************
+cur deep: 123pathtime: 104.26547999999912
+all partition is not good
+current partition time: 62.74761000000126    reducetime: 47.46591999999964
+**********************************************
+cur deep: 124pathtime: 105.79077999999981
+all partition is not good
+current partition time: 63.969640000000254    reducetime: 47.46591999999964
+**********************************************
+cur deep: 125pathtime: 104.68176999999969
+all partition is not good
+current partition time: 62.03504000000066    reducetime: 47.46591999999964
+**********************************************
+cur deep: 126pathtime: 106.42113999999992
+all partition is not good
+current partition time: 54.23670000000129    reducetime: 50.167659999999614
+**********************************************
+cur deep: 127pathtime: 105.69599999999922
+all partition is good.    reducetime: 50.75065999999991
+**********************************************
+cur deep: 128pathtime: 105.49034000000007
+all partition is not good
+current partition time: 57.25836999999956    reducetime: 50.75065999999991
+**********************************************
+cur deep: 129pathtime: 106.8048500000009
+all partition is not good
+current partition time: 55.45905999999832    reducetime: 51.25303000000031
+**********************************************
+cur deep: 130pathtime: 105.61857000000033
+all partition is not good
+current partition time: 57.184559999996054    reducetime: 51.25303000000031
+**********************************************
+cur deep: 131pathtime: 107.64670999999964
+all partition is not good
+current partition time: 59.193270000000666    reducetime: 51.25303000000031
+**********************************************
+cur deep: 132pathtime: 107.21861000000047
+all partition is good.    reducetime: 51.31962999999871
+**********************************************
+cur deep: 133pathtime: 106.38252999999965
+all partition is not good
+current partition time: 55.590540000002875    reducetime: 51.31962999999871
+**********************************************
+cur deep: 134pathtime: 107.67547999999977
+all partition is not good
+current partition time: 58.4336600000006    reducetime: 51.31962999999871
+**********************************************
+cur deep: 135pathtime: 107.07988000000002
+all partition is not good
+current partition time: 58.38152999999693    reducetime: 51.31962999999871
+**********************************************
+cur deep: 136pathtime: 107.99919999999986
+all partition is good.    reducetime: 52.788360000000125
+**********************************************
+cur deep: 137pathtime: 109.6284800000001
+all partition is not good
+current partition time: 57.87137000000257    reducetime: 52.788360000000125
+**********************************************
+cur deep: 138pathtime: 110.24941000000014
+all partition is not good
+current partition time: 58.69294000000082    reducetime: 52.788360000000125
+**********************************************
+cur deep: 139pathtime: 109.76084000000013
+all partition is not good
+current partition time: 61.051400000001195    reducetime: 52.788360000000125
+**********************************************
+cur deep: 140pathtime: 111.64427999999987
+all partition is not good
+current partition time: 65.299729999997    reducetime: 52.788360000000125
+**********************************************
+cur deep: 141pathtime: 112.4950100000001
+all partition is not good
+current partition time: 62.94906000000083    reducetime: 52.788360000000125
+**********************************************
+cur deep: 142pathtime: 112.46577
+all partition is not good
+current partition time: 64.48746999999912    reducetime: 52.788360000000125
+**********************************************
+cur deep: 143pathtime: 112.92104999999992
+all partition is not good
+current partition time: 66.03543000000172    reducetime: 53.02083000000039
+**********************************************
+cur deep: 144pathtime: 111.38961999999992
+all partition is not good
+current partition time: 62.99027000000024    reducetime: 53.02083000000039
+**********************************************
+cur deep: 145pathtime: 111.3699600000001
+all partition is not good
+current partition time: 67.89743000000271    reducetime: 53.02083000000039
+**********************************************
+cur deep: 146pathtime: 111.52320000000003
+all partition is not good
+current partition time: 64.41920999999638    reducetime: 53.02083000000039
+**********************************************
+cur deep: 147pathtime: 112.95936000000012
+all partition is not good
+current partition time: 65.9909400000015    reducetime: 53.02083000000039
+**********************************************
+cur deep: 148pathtime: 114.28399999999982
+all partition is not good
+current partition time: 68.20516000000225    reducetime: 53.02083000000039
+**********************************************
+cur deep: 149pathtime: 115.63056999999986
+all partition is good.    reducetime: 53.62418000000304
+**********************************************
+cur deep: 150pathtime: 118.39530999999994
+all partition is not good
+current partition time: 65.27509999999893    reducetime: 53.62418000000304
+**********************************************
+cur deep: 151pathtime: 120.10401000000002
+all partition is not good
+current partition time: 64.90923000000294    reducetime: 53.62418000000304
+**********************************************
+cur deep: 152pathtime: 119.14147999999997
+all partition is not good
+current partition time: 65.11966999999913    reducetime: 53.62418000000304
+**********************************************
+cur deep: 153pathtime: 119.00560999999996
+all partition is not good
+current partition time: 66.3451299999997    reducetime: 53.62418000000304
+**********************************************
+cur deep: 154pathtime: 120.15749
+all partition is not good
+current partition time: 66.93647999999939    reducetime: 54.42492999999871
+**********************************************
+cur deep: 155pathtime: 111.95693
+all partition is not good
+current partition time: 63.4007100000008    reducetime: 54.42492999999871
+**********************************************
+cur deep: 156pathtime: 114.20234999999998
+all partition is not good
+current partition time: 66.61717999999837    reducetime: 54.42492999999871
+**********************************************
+cur deep: 157pathtime: 115.05827
